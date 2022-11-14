@@ -1,0 +1,4 @@
+C:\Users\Korisnik\source\repos\Pingpong\Pingpong\obj\Release\Pingpong.Form1.resources
+C:\Users\Korisnik\source\repos\Pingpong\Pingpong\obj\Release\Pingpong.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Pingpong\Pingpong\obj\Release\Pingpong.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Pingpong\Pingpong\obj\Release\Pingpong.csproj.CoreCompileInputs.cache
